@@ -3,8 +3,6 @@ earthquakes-feed-opsdashboard-addin
 
 Addin for Operations Dashboard for ArcGIS that reads an Atom feed of earthquake information from USGS and translates to a graphics layer a map widget.
 
-![Image of add-ins](https://raw.github.com/Esri/local-government-desktop-addins/master/local-government-desktop-addins.png "Desktop Add-ins")
-
 ## Features
 
 * Map consumer widget implementation
